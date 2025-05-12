@@ -41,7 +41,7 @@
 
 ## 🤝 Автор
 
-- Telegram: [@daniilbrylev](https://t.me/daniilbrylev)
+- Telegram: [@v_tsukuyomi](https://t.me/v_tsukuyomi)
 - При поддержке SkillFactory и Московского зоопарка
 
 ---
